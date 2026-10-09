@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sLfIsWpYsmU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\josmv\\Downloads\\proyecto\\proyecto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josmv\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\josmv\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\josmv\\.nuget\\packages\\mysqlconnector\\2.6.2\\mysqlconnector.2.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}

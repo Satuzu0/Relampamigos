@@ -1,0 +1,19 @@
+using MySqlConnector;
+
+string connectionString =
+    "Server=localhost;Database=infiltrate_us;User ID=root;Password=;";
+
+try
+{
+    using var connection = new MySqlConnection(connectionString);
+
+    connection.Open();
+
+    Console.WriteLine("¡Conectado correctamente a infiltrate_us!");
+
+    connection.Close();
+}
+catch (MySqlException ex)
+{
+    Console.WriteLine("Error: " + ex.Message);
+}   

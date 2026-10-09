@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Infiltrate Us — Mapa conceptual E-R</title>
+<style>
+:root{--bg:#f7f7f5;--fg:#1c1c1a;--mut:#6b6b66;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#17171a;--fg:#ececea;--mut:#9a9a94}}
+:root[data-theme="dark"]{--bg:#17171a;--fg:#ececea;--mut:#9a9a94}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,Segoe UI,sans-serif}
+header{padding:16px 20px 4px}h1{margin:0;font-size:20px}p{margin:4px 0;color:var(--mut);font-size:13px}
+#leg{display:flex;flex-wrap:wrap;gap:8px;padding:8px 20px}
+.chip{border:1.5px solid;border-radius:99px;padding:3px 11px;font-size:12px;cursor:pointer;background:transparent;color:var(--fg)}
+.wrap{overflow-x:auto;padding:0 8px 20px}svg{min-width:1150px;width:100%;height:auto;display:block}
+text{font-family:ui-monospace,Menlo,Consolas,monospace}
+.dim{opacity:.1}.e{transition:opacity .15s}.n{cursor:pointer;transition:opacity .15s}
+</style></head><body>
+<header><h1>Infiltrate Us — Mapa conceptual E-R</h1>
+<p>30 tablas · 56 relaciones · ordenado como mapa conceptual: arriba las <b>tablas madre</b> (no dependen de ninguna); cada nivel hacia abajo depende de la tabla que tiene encima.</p>
+<p>Toca o pasa el cursor sobre una tabla (o un módulo) para ver solo sus conexiones. <b>1</b> = tabla padre, <b>N</b> = tabla hija. Borde doble = tabla N:M.</p></header>
+<div id="leg"></div>
+<div class="wrap"><svg id="s" viewBox="0 0 1398 858"></svg></div>
+<script>
+const C={J:['Jugadores','#4f8ef7'],T:['Tienda y cosméticos','#2fb37a'],L:['Logros y tokens','#e2a726'],M:['Mundo (mapas)','#17b3ac'],R:['Reglas','#9a6cf5'],S:['Salas y partidas','#f0705f'],E:['Eventos en vivo','#e04a95']};
+const D=`player,565,169,J;friendship,643,294,J,1;game_character,691,43,J;cosmetic_category,305,43,T;cosmetic_item,305,169,T;player_inventory,455,294,T,1;player_loadout,466,418,T;achievement,249,295,L;player_achievement,288,421,L,1;token_transaction,224,545,L;game_room,773,294,S;room_player,644,418,S;game_match,834,421,S;match_player,822,548,S,1;match_player_task,1073,675,S,1;game_mode,844,43,R;mode_role,928,167,R,1;role,1180,43,R;map,945,43,M;map_zone,1051,169,M;vent,990,295,M;vent_link,1011,421,M,1;task,1076,294,M;map_sabotage,1194,294,M,1;sabotage_type,1299,43,M;chat_message,859,799,E;vote,741,802,E,1;meeting,925,674,E;kill_event,806,672,E;match_sabotage,1247,672,E`;
+const E=`player>game_character;friendship>player;friendship>player;cosmetic_item>cosmetic_category;player_inventory>player;player_inventory>cosmetic_item;player_loadout>player_inventory!;player_loadout>cosmetic_item;achievement>cosmetic_item;player_achievement>player;player_achievement>achievement;token_transaction>player;token_transaction>game_match;token_transaction>achievement;token_transaction>cosmetic_item;map_zone>map;vent>map_zone;vent_link>vent;vent_link>vent;task>map_zone;map_sabotage>map;map_sabotage>sabotage_type;map_sabotage>map_zone;mode_role>game_mode;mode_role>role;game_room>player;game_room>map;game_room>game_mode;room_player>game_room;room_player>player!;game_match>game_room;game_match>map;game_match>game_mode;match_player>game_match;match_player>player;match_player>role;match_player>game_character;match_player_task>match_player;match_player_task>task;meeting>match_player;meeting>match_player;meeting>match_player;meeting>map_zone;vote>meeting;vote>match_player;vote>match_player;kill_event>match_player;kill_event>match_player!;kill_event>map_zone;match_sabotage>sabotage_type;match_sabotage>match_player;match_sabotage>match_player;chat_message>game_room;chat_message>game_match;chat_message>meeting;chat_message>player`.split(';');
+const RT=[[[670, 56], [670, 72], [565, 72], [565, 156.4]], [[585, 182.4], [585, 208], [660, 208], [660, 278]], [[578, 182.4], [578, 217], [626, 217], [626, 278]], [[305, 56], [305, 155.8]], [[545, 182.4], [545, 208], [480, 208], [480, 278]], [[341, 181.8], [341, 208], [431, 208], [431, 278]], [[455, 310], [455, 326], [487, 326], [487, 405]], [[317, 181.8], [317, 326], [445, 326], [445, 405]], [[293, 181.8], [293, 208], [249, 208], [249, 282]], [[539, 182.4], [539, 199], [365, 199], [365, 335], [314, 335], [314, 405]], [[266, 308], [266, 326], [261, 326], [261, 405]], [[552, 182.4], [552, 217], [545, 217], [545, 453], [239, 453], [239, 532]], [[810, 434], [810, 462], [268, 462], [268, 532]], [[231, 308], [231, 326], [190, 326], [190, 453], [209, 453], [209, 532]], [[270, 181.8], [270, 199], [180, 199], [180, 532]], [[950, 56], [950, 108], [1051, 108], [1051, 156]], [[1051, 182], [1051, 217], [990, 217], [990, 282]], [[998, 308], [998, 326], [1027, 326], [1027, 405]], [[981, 308], [981, 335], [996, 335], [996, 405]], [[1064, 182], [1064, 226], [1076, 226], [1076, 281]], [[958, 56], [958, 72], [1108, 72], [1108, 208], [1194, 208], [1194, 278]], [[1279, 56], [1279, 72], [1224, 72], [1224, 278]], [[1078, 182], [1078, 217], [1165, 217], [1165, 278]], [[866, 56], [866, 72], [913, 72], [913, 151]], [[1171, 56], [1171, 99], [944, 99], [944, 151]], [[592, 182.4], [592, 199], [751, 199], [751, 281]], [[941, 56], [941, 90], [864, 90], [864, 208], [795, 208], [795, 281]], [[844, 56], [844, 199], [773, 199], [773, 281]], [[751, 307], [751, 326], [661, 326], [661, 405]], [[565, 182.4], [565, 326], [626, 326], [626, 405]], [[795, 307], [795, 326], [810, 326], [810, 408]], [[932, 56], [932, 81], [854, 81], [854, 326], [858, 326], [858, 408]], [[822, 56], [822, 217], [834, 217], [834, 408]], [[834, 434], [834, 532]], [[572, 182.4], [572, 226], [575, 226], [575, 489], [787, 489], [787, 532]], [[1188, 56], [1188, 199], [1269, 199], [1269, 462], [857, 462], [857, 532]], [[712, 56], [712, 471], [811, 471], [811, 532]], [[849, 564], [849, 607], [1047, 607], [1047, 659]], [[1076, 307], [1076, 607], [1099, 607], [1099, 659]], [[817, 564], [817, 643], [903, 643], [903, 661]], [[828, 564], [828, 625], [918, 625], [918, 661]], [[838, 564], [838, 616], [932, 616], [932, 661]], [[1037, 182], [1037, 208], [947, 208], [947, 661]], [[913, 687], [913, 716], [755, 716], [755, 786]], [[785, 564], [785, 589], [741, 589], [741, 786]], [[775, 564], [775, 580], [731, 580], [731, 716], [726, 716], [726, 786]], [[806, 564], [806, 659]], [[796, 564], [796, 598], [782, 598], [782, 659]], [[1024, 182], [1024, 199], [937, 199], [937, 634], [830, 634], [830, 659]], [[1319, 56], [1319, 72], [1289, 72], [1289, 589], [1278, 589], [1278, 659]], [[870, 564], [870, 589], [1247, 589], [1247, 659]], [[860, 564], [860, 598], [1215, 598], [1215, 659]], [[773, 307], [773, 335], [722, 335], [722, 480], [721, 480], [721, 707], [848, 707], [848, 786]], [[858, 434], [858, 453], [927, 453], [927, 580], [1326, 580], [1326, 734], [893, 734], [893, 786]], [[937, 687], [937, 725], [870, 725], [870, 786]], [[559, 182.4], [559, 226], [555, 226], [555, 725], [826, 725], [826, 786]]];
+const LV=[["Nivel 0 · tablas madre", 43], ["Nivel 1", 169], ["Nivel 2", 294], ["Nivel 3", 420], ["Nivel 4", 546], ["Nivel 5", 673], ["Nivel 6 · últimas", 800]];
+const NS='http://www.w3.org/2000/svg',svg=document.getElementById('s'),N={};
+const mk=(t,a,p=svg)=>{const e=document.createElementNS(NS,t);for(const k in a)e.setAttribute(k,a[k]);p.appendChild(e);return e};
+D.split(';').forEach(r=>{const[n,x,y,m,nm]=r.split(',');N[n]={n,x:+x,y:+y,m,nm:!!nm,w:n.length*7.4+22,h:26}});
+function edge(a,b,dx,dy,o){const t=Math.min(a.w/2/Math.abs(dx||1e-9),a.h/2/Math.abs(dy||1e-9));return[a.x+dx*t,a.y+dy*t]}
+const pairs={},edges=[];
+E.forEach(s=>{const one=s.endsWith('!');const[c,p]=s.replace('!','').split('>');const k=[c,p].sort().join('|');pairs[k]=(pairs[k]||0)+1;edges.push({c:N[c],p:N[p],one,i:pairs[k]-1,k})});
+const ge=mk('g',{}),gl=mk('g',{}),gn=mk('g',{});
+LV.forEach(([t,y])=>{const g=mk('g',{},ge);mk('line',{x1:10,y1:y+22,x2:svg.viewBox.baseVal.width-10,y2:y+22,stroke:'var(--mut)','stroke-opacity':.25,'stroke-dasharray':'3 5'},g);const tx=mk('text',{x:12,y:y+4,'font-size':11,'font-weight':700,fill:'var(--mut)'},g);tx.textContent=t});
+const OUT={},OL=[];edges.forEach(e=>OUT[e.p.n]=(OUT[e.p.n]||0)+1);
+edges.forEach((e,idx)=>{const pts=RT[idx];const col=C[e.p.m][1];
+e.el=mk('polyline',{points:pts.map(p=>p.join(',')).join(' '),fill:'none',stroke:col,'stroke-width':1.6,opacity:.8,'stroke-linejoin':'round',class:'e'},ge);
+const f=(a,b,tx)=>{let dx=b[0]-a[0],dy=b[1]-a[1];const L=Math.hypot(dx,dy)||1;dx/=L;dy/=L;
+const t=mk('text',{x:a[0]+dx*11+(dy?7:0),y:a[1]+dy*11+(dx?-5:0)+3.5,'text-anchor':'middle','font-size':10.5,'font-weight':700,fill:col,stroke:'var(--bg)','stroke-width':3,'paint-order':'stroke',class:'e'},gl);t.textContent=tx;return t};
+e.l1=OUT[e.p.n]>3?mk('g',{},gl):f(pts[0],pts[1],'1');e.l2=f(pts[pts.length-1],pts[pts.length-2],e.one?'1':'N')});
+Object.values(N).forEach(n=>{if(OUT[n.n]>3){const t=mk('text',{x:n.x+n.w/2+12,y:n.y+n.h/2+14,'font-size':11,'font-weight':700,fill:C[n.m][1],stroke:'var(--bg)','stroke-width':3,'paint-order':'stroke'},gl);t.textContent='1';OL.push({n:n.n,t})}});
+Object.values(N).forEach(n=>{const g=mk('g',{class:'n',transform:`translate(${n.x},${n.y})`},gn),col=C[n.m][1];
+if(n.nm)mk('rect',{x:-n.w/2-3,y:-n.h/2-3,width:n.w+6,height:n.h+6,rx:9,fill:'none',stroke:col,'stroke-width':1.2},g);
+mk('rect',{x:-n.w/2,y:-n.h/2,width:n.w,height:n.h,rx:7,fill:col,'fill-opacity':n.nm?.32:.14,stroke:col,'stroke-width':1.6},g);
+const t=mk('text',{y:4,'text-anchor':'middle','font-size':12,fill:'var(--fg)'},g);t.textContent=n.n;n.g=g;
+g.onmouseenter=()=>focus(n.n);g.onmouseleave=()=>{if(!pin)focus(null)};g.onclick=()=>{pin=pin===n.n?null:n.n;focus(pin)}});
+let pin=null;
+function focus(id,mod){const on=new Set(),eon=new Set();
+if(id||mod){edges.forEach((e,i)=>{const hit=id?(e.c.n===id||e.p.n===id):(e.c.m===mod||e.p.m===mod);if(hit){eon.add(i);on.add(e.c.n);on.add(e.p.n)}});if(id)on.add(id);if(mod)Object.values(N).forEach(n=>{if(n.m===mod)on.add(n.n)})}
+const all=!id&&!mod;
+edges.forEach((e,i)=>{const d=!all&&!eon.has(i);[e.el,e.l1,e.l2].forEach(x=>x.classList.toggle('dim',d))});
+Object.values(N).forEach(n=>n.g.classList.toggle('dim',!all&&!on.has(n.n)));OL.forEach(o=>o.t.classList.toggle('dim',!all&&!on.has(o.n)))}
+const leg=document.getElementById('leg');
+for(const k in C){const b=document.createElement('button');b.className='chip';b.style.borderColor=C[k][1];b.style.background=C[k][1]+'22';b.textContent=C[k][0];
+b.onmouseenter=()=>focus(null,k);b.onmouseleave=()=>{if(!pin)focus(pin)};b.onclick=()=>{pin=null;focus(null,k)};leg.appendChild(b)}
+svg.addEventListener('click',e=>{if(e.target===svg){pin=null;focus(null)}});
+</script></body></html>
