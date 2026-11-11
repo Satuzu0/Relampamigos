@@ -1,0 +1,1844 @@
+fileFormatVersion: 2
+guid: f84652de29be655478c106080c8958e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8555906834693546531
+    second: logo_infiltrate_us_0
+  - first:
+      213: -2428653002949274928
+    second: logo_infiltrate_us_1
+  - first:
+      213: 293243951088592737
+    second: logo_infiltrate_us_2
+  - first:
+      213: 929414469811451855
+    second: logo_infiltrate_us_3
+  - first:
+      213: -8270552250052425192
+    second: logo_infiltrate_us_4
+  - first:
+      213: 6876707223299473381
+    second: logo_infiltrate_us_5
+  - first:
+      213: 8474992371134024928
+    second: logo_infiltrate_us_6
+  - first:
+      213: 6644367883632659061
+    second: logo_infiltrate_us_7
+  - first:
+      213: 7501394306051295541
+    second: logo_infiltrate_us_8
+  - first:
+      213: -7951820974550173485
+    second: logo_infiltrate_us_9
+  - first:
+      213: -2857614676317795067
+    second: logo_infiltrate_us_10
+  - first:
+      213: -5479011752257496228
+    second: logo_infiltrate_us_11
+  - first:
+      213: -5900085642639539993
+    second: logo_infiltrate_us_12
+  - first:
+      213: 8946939121182110398
+    second: logo_infiltrate_us_13
+  - first:
+      213: 7109663756894202145
+    second: logo_infiltrate_us_14
+  - first:
+      213: -25788545933292727
+    second: logo_infiltrate_us_15
+  - first:
+      213: -8600761948889746795
+    second: logo_infiltrate_us_16
+  - first:
+      213: -7335091403431846306
+    second: logo_infiltrate_us_17
+  - first:
+      213: -3260465732139570073
+    second: logo_infiltrate_us_18
+  - first:
+      213: -3429122675486768538
+    second: logo_infiltrate_us_19
+  - first:
+      213: -513836462609635093
+    second: logo_infiltrate_us_20
+  - first:
+      213: 5722814623531007376
+    second: logo_infiltrate_us_21
+  - first:
+      213: -4148028183456866280
+    second: logo_infiltrate_us_22
+  - first:
+      213: 512526895204132189
+    second: logo_infiltrate_us_23
+  - first:
+      213: 6957911414783248422
+    second: logo_infiltrate_us_24
+  - first:
+      213: 3681868153657836587
+    second: logo_infiltrate_us_25
+  - first:
+      213: 4119106972486365940
+    second: logo_infiltrate_us_26
+  - first:
+      213: -6250185849634418365
+    second: logo_infiltrate_us_27
+  - first:
+      213: 3361491977832465605
+    second: logo_infiltrate_us_28
+  - first:
+      213: 7522160355721154393
+    second: logo_infiltrate_us_29
+  - first:
+      213: -635042091503343723
+    second: logo_infiltrate_us_30
+  - first:
+      213: -2184761720170141287
+    second: logo_infiltrate_us_31
+  - first:
+      213: -1574940285478651054
+    second: logo_infiltrate_us_32
+  - first:
+      213: -8864890830828078368
+    second: logo_infiltrate_us_33
+  - first:
+      213: -1680417956345532570
+    second: logo_infiltrate_us_34
+  - first:
+      213: 5387808016444032458
+    second: logo_infiltrate_us_35
+  - first:
+      213: 4109644987642630083
+    second: logo_infiltrate_us_36
+  - first:
+      213: 6244942290634621886
+    second: logo_infiltrate_us_37
+  - first:
+      213: -4908752010512469650
+    second: logo_infiltrate_us_38
+  - first:
+      213: 3652144232981068324
+    second: logo_infiltrate_us_39
+  - first:
+      213: 8365674924615088993
+    second: logo_infiltrate_us_40
+  - first:
+      213: -1241224639877738518
+    second: logo_infiltrate_us_41
+  - first:
+      213: -2539632386624619130
+    second: logo_infiltrate_us_42
+  - first:
+      213: 6676840331982513838
+    second: logo_infiltrate_us_43
+  - first:
+      213: -6101408247514725112
+    second: logo_infiltrate_us_44
+  - first:
+      213: 4947073872322467260
+    second: logo_infiltrate_us_45
+  - first:
+      213: 2097147587946813393
+    second: logo_infiltrate_us_46
+  - first:
+      213: 8362960404293738349
+    second: logo_infiltrate_us_47
+  - first:
+      213: 7891123387380423540
+    second: logo_infiltrate_us_48
+  - first:
+      213: 2361206449651914604
+    second: logo_infiltrate_us_49
+  - first:
+      213: 1107680276412486534
+    second: logo_infiltrate_us_50
+  - first:
+      213: 865298453769185664
+    second: logo_infiltrate_us_51
+  - first:
+      213: -2673793245100085414
+    second: logo_infiltrate_us_52
+  - first:
+      213: 7466806262481283819
+    second: logo_infiltrate_us_53
+  - first:
+      213: 8756466476221032128
+    second: logo_infiltrate_us_54
+  - first:
+      213: 1733763053464860708
+    second: logo_infiltrate_us_55
+  - first:
+      213: -7606856600513381332
+    second: logo_infiltrate_us_56
+  - first:
+      213: 5164494069765713241
+    second: logo_infiltrate_us_57
+  - first:
+      213: 59235189950360794
+    second: logo_infiltrate_us_58
+  - first:
+      213: -8679524294283732651
+    second: logo_infiltrate_us_59
+  - first:
+      213: -1486951255139795590
+    second: logo_infiltrate_us_60
+  - first:
+      213: 4212164900129715251
+    second: logo_infiltrate_us_61
+  - first:
+      213: 4799653467867352058
+    second: logo_infiltrate_us_62
+  - first:
+      213: -6410882752474307607
+    second: logo_infiltrate_us_63
+  - first:
+      213: 5191474970059792804
+    second: logo_infiltrate_us_64
+  - first:
+      213: 8212482539237535443
+    second: logo_infiltrate_us_65
+  - first:
+      213: -3583098131113822134
+    second: logo_infiltrate_us_66
+  - first:
+      213: -1516031090678686693
+    second: logo_infiltrate_us_67
+  - first:
+      213: -1461560281599446260
+    second: logo_infiltrate_us_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: logo_infiltrate_us_0
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 667
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd11c2a010534980800000000000000
+      internalID: -8555906834693546531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_1
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 690
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2d58c16f0bb4ed0800000000000000
+      internalID: -2428653002949274928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 553
+        width: 127
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167ea21e1dfc11400800000000000000
+      internalID: 293243951088592737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 682
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7383a3981f5ec00800000000000000
+      internalID: 929414469811451855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_4
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 679
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a415f3c88193d80800000000000000
+      internalID: -8270552250052425192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_5
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 677
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efb02509c8fe6f50800000000000000
+      internalID: 6876707223299473381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_6
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 636
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecc69bb8a83d9570800000000000000
+      internalID: 8474992371134024928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_7
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 667
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a40f40369853c50800000000000000
+      internalID: 6644367883632659061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_8
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 614
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5394354906e4a1860800000000000000
+      internalID: 7501394306051295541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_9
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 666
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8bf6644f475a190800000000000000
+      internalID: -7951820974550173485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_10
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 579
+        width: 155
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d82299796b758d0800000000000000
+      internalID: -2857614676317795067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_11
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 663
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b508227d3a6f3b0800000000000000
+      internalID: -5479011752257496228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 648
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e086163e5fae1ea0800000000000000
+      internalID: -5900085642639539993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_13
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 643
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2fa115ab9e92c70800000000000000
+      internalID: 8946939121182110398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_14
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 657
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129e52ea4899aa260800000000000000
+      internalID: 7109663756894202145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_15
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 631
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b4f50447164aff0800000000000000
+      internalID: -25788545933292727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 615
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592fab68394f3a880800000000000000
+      internalID: -8600761948889746795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_17
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 572
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e5c674b35843a90800000000000000
+      internalID: -7335091403431846306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_18
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 617
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cac79f0bf70c2d0800000000000000
+      internalID: -3260465732139570073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_19
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 613
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662cf5c481f4960d0800000000000000
+      internalID: -3429122675486768538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_20
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 609
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8628da57c7ed8f0800000000000000
+      internalID: -513836462609635093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_21
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 619
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09df9fe44958b6f40800000000000000
+      internalID: 5722814623531007376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_22
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 606
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810aeb6285e3f66c0800000000000000
+      internalID: -4148028183456866280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_23
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 598
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55e976ee7cdc1700800000000000000
+      internalID: 512526895204132189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_24
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 565
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6288ac031977f8060800000000000000
+      internalID: 6957911414783248422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_25
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 579
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b244990149f981330800000000000000
+      internalID: 3681868153657836587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_26
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 552
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f272eea7f10a2930800000000000000
+      internalID: 4119106972486365940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_27
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 548
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3411e5ca511e249a0800000000000000
+      internalID: -6250185849634418365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_28
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 581
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c48706d42b66ae20800000000000000
+      internalID: 3361491977832465605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_29
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 562
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f094a4df4146860800000000000000
+      internalID: 7522160355721154393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_30
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 575
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597a5861590ef27f0800000000000000
+      internalID: -635042091503343723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_31
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 544
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99923667aca2ea1e0800000000000000
+      internalID: -2184761720170141287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_32
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 561
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bb79d9720b42ae0800000000000000
+      internalID: -1574940285478651054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_33
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 559
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eaffdfe1c499f480800000000000000
+      internalID: -8864890830828078368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_34
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 479
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f26dd95c4fda8e0800000000000000
+      internalID: -1680417956345532570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_35
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 322
+        width: 64
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5062a58d655ca40800000000000000
+      internalID: 5387808016444032458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_36
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 291
+        width: 205
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf4769a754680930800000000000000
+      internalID: 4109644987642630083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_37
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 344
+        width: 134
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3471c1ded7aa650800000000000000
+      internalID: 6244942290634621886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_38
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 344
+        width: 55
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e617beadd0c90ebb0800000000000000
+      internalID: -4908752010512469650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_39
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 344
+        width: 118
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42af35b74d50fa230800000000000000
+      internalID: 3652144232981068324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_40
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 344
+        width: 148
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b331c4509d81470800000000000000
+      internalID: 8365674924615088993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_41
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 344
+        width: 323
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef00ad24c846cee0800000000000000
+      internalID: -1241224639877738518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_42
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 344
+        width: 283
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d7927ccc961ccd0800000000000000
+      internalID: -2539632386624619130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_43
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 376
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6a1d118e6e8ac50800000000000000
+      internalID: 6676840331982513838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_44
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 300
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8050f398681735ba0800000000000000
+      internalID: -6101408247514725112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_45
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 311
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb59565e97987a440800000000000000
+      internalID: 4947073872322467260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_46
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 113
+        width: 166
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7132dbe909a1d10800000000000000
+      internalID: 2097147587946813393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_47
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 113
+        width: 157
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fd598cd243f0470800000000000000
+      internalID: 8362960404293738349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_48
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 225
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b569f69e6e28d60800000000000000
+      internalID: 7891123387380423540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_49
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 206
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c671dd871c0b4c020800000000000000
+      internalID: 2361206449651914604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_50
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 183
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683d548b7554f5f00800000000000000
+      internalID: 1107680276412486534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_51
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 93
+        width: 159
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0896b91fb58220c00800000000000000
+      internalID: 865298453769185664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_52
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 186
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f68feb537c4ead0800000000000000
+      internalID: -2673793245100085414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_53
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 45
+        width: 145
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beaebd12cbc6f9760800000000000000
+      internalID: 7466806262481283819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_54
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 156
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c665cacdd7358970800000000000000
+      internalID: 8756466476221032128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_55
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 160
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428387eaf409f0810800000000000000
+      internalID: 1733763053464860708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_56
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 152
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c701589340f6690800000000000000
+      internalID: -7606856600513381332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_57
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 118
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d2ff86ef7fba740800000000000000
+      internalID: 5164494069765713241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_58
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 119
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adca137671272d000800000000000000
+      internalID: 59235189950360794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_59
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 115
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55958d3f3a22c8780800000000000000
+      internalID: -8679524294283732651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_60
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 119
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d321f26b94d5be0800000000000000
+      internalID: -1486951255139795590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_61
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 108
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334b99fd8ad947a30800000000000000
+      internalID: 4212164900129715251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_62
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 102
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb843d366bcb9240800000000000000
+      internalID: 4799653467867352058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_63
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 96
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3271a5a18f707a0800000000000000
+      internalID: -6410882752474307607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_64
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 51
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1eebacaf2db0840800000000000000
+      internalID: 5191474970059792804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_65
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 55
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dee95b9b5998f170800000000000000
+      internalID: 8212482539237535443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_66
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 45
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48389bdb37464ec0800000000000000
+      internalID: -3583098131113822134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_67
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 51
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c16ab51c9f5fae0800000000000000
+      internalID: -1516031090678686693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_infiltrate_us_68
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 24
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03f175eaae77bbe0800000000000000
+      internalID: -1461560281599446260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
